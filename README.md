@@ -334,4 +334,3 @@ This experiment demonstrated that **prompt design is the primary engineering dis
 
 ---
 
-*GitHub Repository: [RaajaThilahar/Ex.No.7](https://github.com/RaajaThilahar/Ex.No.7)*
