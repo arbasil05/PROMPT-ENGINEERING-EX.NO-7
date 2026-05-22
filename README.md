@@ -1,7 +1,7 @@
 # Ex. No. 7 — Prompt-Based Personal Productivity Application
 
-**Name: Abdur Rahman Basil A H**
-**Reg No : 212223040002**
+### Name: Abdur Rahman Basil A H
+### Reg No : 212223040002
 ## Aim
 
 To develop a prompt-based application using ChatGPT that demonstrates how to organize daily tasks and personal activities, showing the clear progression from simple to intermediate to advanced prompt designs — and how each level produces increasingly useful, structured, and actionable outputs.
